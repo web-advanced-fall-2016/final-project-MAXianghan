@@ -1,20 +1,21 @@
 # Final Assignment
 ## A Website for a Restaurant in Beijing, China
+###### Designed and programmed by Xianghan Ma
 
 ### Frontend Focused
 
 ### Features
 
-###### Home page: 
+###### HOME PAGE: 
 Simple Carousel Slider presenting the interior of the Restaurant. and the logo on the top left corner links back to the homepage.
 
-###### About page: 
+###### ABOUT PAGE: 
 Parallax scroll down introduction of the restaurant with images and text(in Chinese).
 
-###### Menu page: 
+###### MENU PAGE: 
 Lightbox Display using jQuery plugin. Displaying pictures of the dishes served in the restaurant. Click on each box, individual dishes show up. 
 
-###### Events page: 
+###### EVENT PAGE: 
 Simple Carousel Slider presenting the promotion events and special offers that is ongoing in the restaurant now. 
 
 ### Goal
