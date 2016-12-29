@@ -7,7 +7,8 @@
 ### :one: Features
 
 ###### HOME PAGE: 
-* Simple Carousel Slider presenting the interior of the Restaurant. and the logo on the top left corner links back to the homepage.
+* Simple Carousel Slider presenting the interior of the Restaurant. 
+* The logo on the top left corner links back to the homepage.
 
 ###### ABOUT PAGE: 
 * Parallax scroll down introduction of the restaurant with images and text(in Chinese).
