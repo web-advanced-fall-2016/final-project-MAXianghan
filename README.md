@@ -7,27 +7,27 @@
 ### :one: Features
 
 ###### HOME PAGE: 
-Simple Carousel Slider presenting the interior of the Restaurant. and the logo on the top left corner links back to the homepage.
+* Simple Carousel Slider presenting the interior of the Restaurant. and the logo on the top left corner links back to the homepage.
 
 ###### ABOUT PAGE: 
-Parallax scroll down introduction of the restaurant with images and text(in Chinese).
+* Parallax scroll down introduction of the restaurant with images and text(in Chinese).
 
 ###### MENU PAGE: 
-Lightbox Display using jQuery plugin. Displaying pictures of the dishes served in the restaurant. 
-Click on each box, individual image of the dish show up. 
+* Lightbox Display using jQuery plugin. Displaying pictures of the dishes served in the restaurant. 
+* Click on each box, individual image of the dish show up. 
 
 ###### EVENT PAGE: 
-Simple Carousel Slider presenting the promotion events and special offers that is ongoing in the restaurant now. 
+* Simple Carousel Slider presenting the promotion events and special offers that is ongoing in the restaurant now. 
 
 ### :two: Goal
-Revisits the assignments we did throughout the semester.
-Sharpen my CSS skills.
-Design layouts, color theme, logo, posters, contents and structures of the website. 
+* Revisits the assignments we did throughout the semester.
+* Sharpen my CSS skills.
+* Design layouts, color theme, logo, posters, contents and structures of the website. 
 
 
 ### :three: Future Steps
-Make it more interactive and more fun. 
-Example goal: http://www.hishiken.co.jp/
+* Make it more interactive and more fun. 
+* Example goal: http://www.hishiken.co.jp/
 
 
 
