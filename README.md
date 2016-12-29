@@ -13,7 +13,8 @@ Simple Carousel Slider presenting the interior of the Restaurant. and the logo o
 Parallax scroll down introduction of the restaurant with images and text(in Chinese).
 
 ###### MENU PAGE: 
-Lightbox Display using jQuery plugin. Displaying pictures of the dishes served in the restaurant. Click on each box, individual dishes show up. 
+Lightbox Display using jQuery plugin. Displaying pictures of the dishes served in the restaurant. 
+Click on each box, individual image of the dish show up. 
 
 ###### EVENT PAGE: 
 Simple Carousel Slider presenting the promotion events and special offers that is ongoing in the restaurant now. 
