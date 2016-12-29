@@ -1,8 +1,8 @@
 # Final Assignment
 ## A Website for a Restaurant in Beijing, China
-#### :Frontend Focused
+### Frontend Focused
 
-##### Features
+### Features
 
 ###### Home page: 
 Simple Carousel Slider presenting the interior of the Restaurant. and the logo on the top left corner links back to the homepage.
@@ -16,12 +16,12 @@ Lightbox Display using jQuery plugin. Displaying pictures of the dishes served i
 ###### Events page: 
 Simple Carousel Slider presenting the promotion events and special offers that is ongoing in the restaurant now. 
 
-##### Goal
+#### Goal
 Sharpen my CSS skills. 
 Design layouts, color theme, logo, posters, contents and structures of the website. 
 
 
-##### Future Steps
+### Future Steps
 Make it more interactive and more fun. 
 Example goal: http://www.hishiken.co.jp/
 
