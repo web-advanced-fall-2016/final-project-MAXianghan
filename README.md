@@ -1,5 +1,33 @@
 # Final Assignment
+## A Website for a Restaurant in Beijing, China
+#### :Frontend Focused
 
+##### Features
+
+###### Home page: 
+Simple Carousel Slider presenting the interior of the Restaurant. and the logo on the top left corner links back to the homepage.
+
+###### About page: 
+Parallax scroll down introduction of the restaurant with images and text(in Chinese).
+
+###### Menu page: 
+Lightbox Display using jQuery plugin. Displaying pictures of the dishes served in the restaurant. Click on each box, individual dishes show up. 
+
+###### Events page: 
+Simple Carousel Slider presenting the promotion events and special offers that is ongoing in the restaurant now. 
+
+##### Goal
+Sharpen my CSS skills. 
+Design layouts, color theme, logo, posters, contents and structures of the website. 
+
+
+##### Future Steps
+Make it more interactive and more fun. 
+Example goal: http://www.hishiken.co.jp/
+
+
+
+# Requirements
 Your last assignment is different from your previous assignments. This time you should come up with a proposal on what you want to make. Go back and think about what we discussed in our first session => the reason you are taking this course and what you want to learn from it. Or think how can JavaScript can help your thesis project and try to help your thesis (make an artifact for your thesis / data visualization / documentation website / blog). Teamwork is allowed, in fact you are encouraged to team up (maximum 2 per group. And of course, expectation is higher when doing a team project). Make something nice that you will be proud of. Make something that you will put it on your portfolio, despite how minimal it would be.
 
 You can use any tool/library as long as you properly reference it. There are no instructions or rules on what you have to implement. That said, try to categorize your project in one of the three below categories and do something that at least loosely relates to some of the ideas provided. These are just ideas, not rules or requirements!
@@ -41,7 +69,7 @@ Every person/team should send a proposal to me by Monday Dec. 5th. I will review
 
 #### Hard Deadline
 
-December 20th.
+December 28th.
 
 ##### Submission Requirements
 
